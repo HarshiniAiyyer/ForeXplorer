@@ -47,6 +47,5 @@ The dataset includes exchange rates between various currencies. It consists of c
 This project evaluates the performance of pathfinding algorithms for arbitrage detection in forex exchanges and analyzes the resulting graph properties and community structures. The findings highlight potential arbitrage opportunities and provide insights into the network of forex exchanges.
 
 ## Acknowledgements
-
-We extend our gratitude to the developers of NetworkX, Pandas, Matplotlib, and other tools that have been instrumental in this research.
+A big thank you to the developers of NetworkX, Pandas, Matplotlib, and other tools included in this.
 
